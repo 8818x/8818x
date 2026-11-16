@@ -59,6 +59,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=8818x&color=1DB954&style=for-the-badge&label=LISTENERS" alt="listeners">
+<img src="https://komarev.com/ghpvc/?username=8818x&color=1DB954&style=for-the-badge&label=PROFILE_VIEWS" alt="listeners">
 
 </div>
