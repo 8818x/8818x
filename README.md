@@ -49,7 +49,7 @@
 <br><br>
 
 <details>
-<summary><b>ความหลังของ playlist ทั้ง 6</b></summary>
+<summary><b>OPEN ALL PLAYLISTS</b></summary>
 <br>
 
 | Playlist | เปิดที่ |
