@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="Now playing: bad by wave to earth">
+  <style>
+    .bg { fill: #111; }
+    .vinyl { transform-box: fill-box; transform-origin: center; animation: spin 3s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .clip-text { clip-path: url(#band); }
+    .scroll { animation: marquee 9s linear infinite; }
+    @keyframes marquee {
+      0%, 12% { transform: translateX(180px); }
+      88%, 100% { transform: translateX(-440px); }
+    }
+    .t1 { font: 600 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .t2 { font: 400 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9ca3af; }
+    .lbl { fill: #1DB954; }
+    .groove { fill: none; stroke: #000; stroke-width: 1; opacity: .35; }
+    .bar { fill: #1DB954; transform-box: fill-box; transform-origin: bottom; animation: eq 1.1s ease-in-out infinite; }
+    @keyframes eq { 0%, 100% { transform: scaleY(.35); } 45% { transform: scaleY(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      .vinyl, .scroll, .bar { animation: none; }
+      .scroll { transform: translateX(120px); }
+      .bar { transform: scaleY(.6); }
+    }
+  </style>
+  <defs>
+    <clipPath id="band"><rect x="76" y="8" width="610" height="48"/></clipPath>
+  </defs>
+  <rect class="bg" width="800" height="64" rx="10"/>
+  <g class="vinyl">
+    <circle cx="36" cy="32" r="24" fill="#000"/>
+    <circle class="groove" cx="36" cy="32" r="19"/>
+    <circle class="groove" cx="36" cy="32" r="14"/>
+    <circle class="lbl" cx="36" cy="32" r="8"/>
+    <circle cx="36" cy="32" r="2" fill="#111"/>
+  </g>
+  <g class="clip-text">
+    <g class="scroll">
+      <text class="t1" x="0" y="30">NOW PLAYING</text>
+      <text class="t1 lbl" x="130" y="30">bad</text>
+      <text class="t2" x="168" y="30">wave to earth</text>
+      <text class="t2" x="286" y="30">6 playlists on rotation</text>
+    </g>
+  </g>
+  <g>
+    <rect class="bar" x="708" y="20" width="5" height="30" rx="2"/>
+    <rect class="bar" x="719" y="20" width="5" height="30" rx="2" style="animation-delay:.25s"/>
+    <rect class="bar" x="730" y="20" width="5" height="30" rx="2" style="animation-delay:.5s"/>
+    <rect class="bar" x="741" y="20" width="5" height="30" rx="2" style="animation-delay:.15s"/>
+    <rect class="bar" x="752" y="20" width="5" height="30" rx="2" style="animation-delay:.4s"/>
+  </g>
+</svg>

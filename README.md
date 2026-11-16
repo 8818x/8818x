@@ -2,6 +2,8 @@
 
 # MY PLAYLIST
 
+<img src="./now-playing.svg" width="800" alt="Now playing: bad by wave to earth, vinyl spinning, equalizer dancing">
+
 <br>
 
 <table>
@@ -43,5 +45,22 @@
 <b>bad</b> <sub>wave to earth</sub><br>
 <br>
 <a href="https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs"><img src="https://img.shields.io/badge/▶_LISTEN-15803D?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen to bad by wave to earth on Spotify"></a>
+
+<br><br>
+
+<details>
+<summary><b>ความหลังของ playlist ทั้ง 6</b></summary>
+<br>
+
+| Playlist | เปิดที่ |
+|---|---|
+| คนน่ารักมักใจร้าย | [Spotify](https://open.spotify.com/playlist/39Pjqnw1wZmNzf4zyNvaZP) |
+| Telepatia | [Spotify](https://open.spotify.com/playlist/2eOibGaE9ymgPIQsCWs0iO) |
+| Lost Kitten | [Spotify](https://open.spotify.com/playlist/1KpjY4J43yCYQzeOocgRoU) |
+| Out of the Box | [Spotify](https://open.spotify.com/playlist/7MkJpOeqvlI7ctPHsSSP19) |
+| Midnight Countdown | [Spotify](https://open.spotify.com/playlist/04rLu0GlU4UlGj1YZd2bpW) |
+| 97 | [Spotify](https://open.spotify.com/playlist/3pcBJdhHCLhz1DuQeljIXX) |
+
+</details>
 
 </div>
