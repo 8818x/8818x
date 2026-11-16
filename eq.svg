@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="24" viewBox="0 0 30 24" role="img" aria-label="playing">
+  <style>
+    .bar { fill: #1DB954; transform-box: fill-box; transform-origin: bottom; animation: eq 1.1s ease-in-out infinite; }
+    .b1 { animation-delay: 0s; }
+    .b2 { animation-delay: .25s; }
+    .b3 { animation-delay: .5s; }
+    .b4 { animation-delay: .15s; }
+    .b5 { animation-delay: .4s; }
+    @keyframes eq {
+      0%, 100% { transform: scaleY(.35); }
+      45% { transform: scaleY(1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .bar { animation: none; transform: scaleY(.6); }
+    }
+  </style>
+  <rect class="bar b1" x="0"  y="0" width="4" height="24" rx="2"/>
+  <rect class="bar b2" x="6"  y="0" width="4" height="24" rx="2"/>
+  <rect class="bar b3" x="12" y="0" width="4" height="24" rx="2"/>
+  <rect class="bar b4" x="18" y="0" width="4" height="24" rx="2"/>
+  <rect class="bar b5" x="24" y="0" width="4" height="24" rx="2"/>
+</svg>

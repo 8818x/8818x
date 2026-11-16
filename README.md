@@ -37,7 +37,7 @@
 
 <br>
 
-## ▶ TOP TRACK THIS MONTH
+## <img src="./eq.svg" height="24" alt="playing"> TOP TRACK THIS MONTH
 
 <img src="./covers/bad.jpg" width="150" height="150" alt="bad by wave to earth album cover"><br>
 <b>bad</b> <sub>wave to earth</sub><br>
