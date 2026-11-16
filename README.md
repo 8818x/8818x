@@ -2,7 +2,7 @@
 
 # MY PLAYLIST
 
-<img src="./now-playing.svg" width="800" alt="Now playing: bad by wave to earth, vinyl spinning, equalizer dancing">
+<img src="./now-playing.svg?v=2" width="800" alt="Now playing: bad by wave to earth, vinyl spinning, equalizer dancing">
 
 <br>
 
