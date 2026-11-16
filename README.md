@@ -57,8 +57,4 @@
 <b>bad</b> — wave to earth<br>
 <a href="https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs"><img src="https://img.shields.io/badge/▶_LISTEN-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen to bad by wave to earth on Spotify"></a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=8818x&color=1DB954&style=for-the-badge&label=PROFILE_VIEWS" alt="listeners">
-
 </div>
